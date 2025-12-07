@@ -1,0 +1,47 @@
+
+
+body {
+    background-color: #F1F3E0;
+    color: #778873;
+    font-family: Arial, sans-serif;
+    
+    text-align: center;
+
+}
+
+.Maintext{
+    margin-top: 60px;
+    font-size: 130%
+}
+.Center{
+    margin-top: 40px;
+    text-align: center;
+
+   
+}
+.Center h1{
+    font-size: 130%;
+}
+.centerImage{
+    margin-top: 10px;
+    width: auto;
+    height: 500px;
+}
+.footer{
+    margin-top: 50px;
+    font-size: 90%;
+    background-color: #778873;
+    overflow: hidden;
+            
+    padding: 10px;
+    text-align: center;
+   
+}
+a{
+    color: #556B2F;
+    text-decoration: underline;
+}
+.footer a{
+    color: #F1F3E0;
+    text-decoration: underline;
+}
